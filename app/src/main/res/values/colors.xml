@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<color name="colorPrimary">#FFFFFF</color>
+	<color name="colorPrimary">#080A0C</color>
 	<color name="colorPrimaryDark">#707070</color>
 	<color name="colorAccent">#54C1E3</color>
 	<color name="colorPrimaryLight">#AA54C1E3</color>
@@ -150,4 +150,9 @@
 	<color name="grey_8d">#8d8d8d</color>
     <color name="greyf3">#f3f4f5</color>
 	<color name="logo_grey">#F2F4F7</color>
+
+
+<!--	New theme Colors-->
+	<color name="main_bg_grey">#080A0C</color>
+	080A0C
 </resources>

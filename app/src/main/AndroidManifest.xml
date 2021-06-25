@@ -193,6 +193,7 @@
         <activity
             android:name=".ui.HomeActivity"
             android:label="@string/toolbar_header_wallet"
+
             android:windowSoftInputMode="adjustPan" />
 
         <activity

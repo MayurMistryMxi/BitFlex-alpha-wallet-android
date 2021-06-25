@@ -472,7 +472,7 @@
             android:layout_width="match_parent"
             android:layout_height="100dp"
             android:layout_alignParentBottom="true"
-            android:background="@color/white"
+            android:background="@color/main_bg_grey"
             android:gravity="center"
             android:padding="20dp">
 
